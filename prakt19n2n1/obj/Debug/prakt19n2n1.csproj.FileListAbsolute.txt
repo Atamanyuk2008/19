@@ -1,0 +1,7 @@
+D:\visua\prakt19n2n1\bin\Debug\prakt19n2n1.exe.config
+D:\visua\prakt19n2n1\bin\Debug\prakt19n2n1.exe
+D:\visua\prakt19n2n1\bin\Debug\prakt19n2n1.pdb
+D:\visua\prakt19n2n1\obj\Debug\prakt19n2n1.csproj.AssemblyReference.cache
+D:\visua\prakt19n2n1\obj\Debug\prakt19n2n1.csproj.CoreCompileInputs.cache
+D:\visua\prakt19n2n1\obj\Debug\prakt19n2n1.exe
+D:\visua\prakt19n2n1\obj\Debug\prakt19n2n1.pdb
